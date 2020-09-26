@@ -1,3 +1,9 @@
+Notebook 1 : https://bit.ly/3bUi2yq  
+Notebook 2 : https://bit.ly/2RhyRtk  
+
+PDF of the slides : https://bit.ly/2DRFAqU
+PDF of the slides : https://bit.ly/2FmRauX
+
 ### Question 1 : Is there a correlation between the revenue of a movie and it's budget?¶
 The r-squared between revenue and production budget is only 0.2275, meaning that only 22.75% of the dependent variable variation is explained by the linear model.
 
