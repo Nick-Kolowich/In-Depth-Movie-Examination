@@ -1,7 +1,7 @@
 ### Question 1 : Is there a correlation between the revenue of a movie and it's budget?¶
 The r-squared between revenue and production budget is only 0.2275, meaning that only 22.75% of the dependent variable variation is explained by the linear model.
 
-![image.png](attachment:image.png)
+![png](readmePNGs/1.png)
 
 The density plot returns a Pearson correlation coefficient of 0.48, showing that the revenue of a movie and it's budget are correlated. However, the correlation is only moderately positive. The two variables are not strongly correlated.
 
