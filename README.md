@@ -5,18 +5,18 @@ The r-squared between revenue and production budget is only 0.2275, meaning that
 
 The density plot returns a Pearson correlation coefficient of 0.48, showing that the revenue of a movie and it's budget are correlated. However, the correlation is only moderately positive. The two variables are not strongly correlated.
 
-![image.png](attachment:image.png)
+![png](readmePNGs/2.png)
 
 ### Question 2 : Do movies generate more revenue domestically or abroad?
 On an absolute basis, the largest portion of a movie's revenue is it's domestic sales. The r-squared between the two variables is 0.839, showing a strong linear relationship. Furthermore, the pearson's r is 0.92, which also shows a strong correlation.
 
-![image.png](attachment:image.png)
+![png](readmePNGs/3.png)
 
 On average, domestic gross comprises 61.9% of a movie's total gross, while foreign sales only make up about 38.1%
 
 While foreign gross has a stronger correlation with revenue, this is likely due to it's smaller variation.
 
-![image.png](attachment:image.png)
+![png](readmePNGs/4.png)
 
 Ideally movie-making companies should focus their advertising campaigns primarily on the domestic market, as it represents, on average, a greater portion of potential revenue.
 
@@ -27,12 +27,12 @@ At face value, the best months to release a film in were:
 2. June
 3. May
 
-![image.png](attachment:image.png)
+![png](readmePNGs/5.png)
 
 
 However, December had far more films released than any other month. We decided a better metric to gauge the best month to release a film in would be the average revenue of films in that month as opposed to the total.
 
-![image.png](attachment:image.png)
+![png](readmePNGs/6.png)
 
 Under that assumption, the best months to release films in were:
 
@@ -41,17 +41,17 @@ Under that assumption, the best months to release films in were:
 3. July
 
 
-![image.png](attachment:image.png)
+![png](readmePNGs/7.png)
 
 ### Question 4 : Which years had the highest grossing films? 
 
 By total value, the 90's, 2010's, and 2020's were the decades with the highest grossing films.
 
-![image.png](attachment:image.png)
+![png](readmePNGs/8.png)
 
 However, in some of the earlier decades examined, there may have been fewer than 10 films released a year.
 
-![image.png](attachment:image.png)
+![png](readmePNGs/9.png)
 
 Upon further examination, we found that the highest average grossing years were:
 
@@ -59,9 +59,4 @@ Upon further examination, we found that the highest average grossing years were:
 2. 1940 (Pinocchio and Fantasia)
 3. 1942 (Bambi)
 
-![image.png](attachment:image.png)
-
-
-```python
-!jupyter nbconvert --to markdown assessment.ipynb && move assessment.md README.md
-```
+![png](readmePNGs/10.png)
